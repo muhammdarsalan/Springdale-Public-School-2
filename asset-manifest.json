@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Springdale-Public-School-2/static/css/main.17a7f5b8.css",
+    "main.js": "/Springdale-Public-School-2/static/js/main.e3c0b7ca.js",
+    "static/js/453.99182054.chunk.js": "/Springdale-Public-School-2/static/js/453.99182054.chunk.js",
+    "static/media/cultural_fest.jpg": "/Springdale-Public-School-2/static/media/cultural_fest.aa2ca3930864c2a120f6.jpg",
+    "static/media/classroom.jpg": "/Springdale-Public-School-2/static/media/classroom.5d37fce0fac16792dee8.jpg",
+    "static/media/science_exhibition.jpg": "/Springdale-Public-School-2/static/media/science_exhibition.ea6636bf7127bdec8f8b.jpg",
+    "static/media/library.jpg": "/Springdale-Public-School-2/static/media/library.c6d3b6adc4e07909e63a.jpg",
+    "static/media/sports_day.jpg": "/Springdale-Public-School-2/static/media/sports_day.6ccfda67a8048f987ecd.jpg",
+    "index.html": "/Springdale-Public-School-2/index.html",
+    "main.17a7f5b8.css.map": "/Springdale-Public-School-2/static/css/main.17a7f5b8.css.map",
+    "main.e3c0b7ca.js.map": "/Springdale-Public-School-2/static/js/main.e3c0b7ca.js.map",
+    "453.99182054.chunk.js.map": "/Springdale-Public-School-2/static/js/453.99182054.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17a7f5b8.css",
+    "static/js/main.e3c0b7ca.js"
+  ]
+}
